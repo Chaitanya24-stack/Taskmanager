@@ -16,7 +16,7 @@ https://task-manager-backend-pxtd.onrender.com
 
 ## 📂 GitHub Repository
 
-https://github.com/ramya884/task-manager-app
+https://github.com/Chaitanya24-stack/Taskmanager
 
 ---
 
@@ -55,10 +55,10 @@ https://github.com/ramya884/task-manager-app
 ## 📸 Screenshots
 
 ### Login Page
-(Add Screenshot Here)
+![Login Page](./screenshots/login.png)
 
 ### Dashboard
-(Add Screenshot Here)
+![Dashboard](./screenshots/dashboard.png)
 
 ---
 
@@ -67,7 +67,7 @@ https://github.com/ramya884/task-manager-app
 ### Clone Repository
 
 ```bash
-git clone https://github.com/ramya884/task-manager-app.git
+git clone https://github.com/Chaitanya24-stack/Taskmanager.git
 ```
 
 ---
@@ -115,4 +115,4 @@ Database hosted on:
 
 ## 👩‍💻 Author
 
-Ramya
+Immaneni Chaitanyeswari
